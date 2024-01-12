@@ -8,3 +8,4 @@ It's features are:
 3. It handles the Yoga class batches for each Person who have joined the Classes, and shows the availability of slots in each batch.
 4. It also handles the payment, and shows the amount to be paid by the the person.
 5. It also has a User Dashboard, which show all the useful information specific to the person.
+   
